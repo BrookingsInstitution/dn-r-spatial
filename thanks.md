@@ -1,6 +1,6 @@
 # Thanks to
  - The Brookings DataNetwork for sponsoring this presentation
- - Edzer Pebesma for leading development of the package "sf"
+ - Edzer Pebesma for leading development of the package <a href="https://r-spatial.github.io/sf/">sf</a>
  - Tim Appelhans, Florian Detsch, Christoph Reudenbach, and Stefan Woellauer for development of the package "mapview"
  - The RStudio development team
  - Robin Lovelace, Jakub Nowosad, and Jannes Muenchow for the excellent free e-book, Geocomputation with R, available at https://bookdown.org/robinlovelace/geocompr/
